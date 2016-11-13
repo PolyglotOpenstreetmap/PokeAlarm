@@ -9,10 +9,10 @@
     }
 	],
 	"gyms":{
-		"To_Valor":"False",
+		"To_Valor":"True",
 		"To_Mystic":"False",
 		"To_Instinct":"False",
-		"From_Valor":"False",
+		"From_Valor":"True",
 		"From_Mystic":"False",
 		"From_Instinct":"False"
 	},
@@ -27,6 +27,7 @@
 "Blastoise":{"min_iv":"0"},
 "Vaporeon":{"min_iv":"0"},
 "Snorlax":{"min_iv":"0"},
+"Lapras":{"min_iv":"0"},
 "Articuno":{"min_iv":"0"},
 "Zapdos":{"min_iv":"0"},
 "Moltres":{"min_iv":"0"},
