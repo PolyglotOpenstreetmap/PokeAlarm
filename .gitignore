@@ -4,6 +4,5 @@ config/config.ini
 nohup.out
 
 # ignore multiple configuration files and possible startup scripts
-/*.json
 /*.bat
 /*.sh
