@@ -1,0 +1,39 @@
+{
+	"alarms":[
+    {
+      "active": "True",
+      "type":"telegram",
+      "bot_token":"293022690:AAGo2uVrhNflnzpjp5-IhnwytY-dva4sCpQ",
+      "chat_id":"-117069436",
+      "pokemon": {"title":"<pkmn> <iv> (<atk>|<def>|<sta>) <move1>|<move2>"}
+    }
+	],
+	"gyms":{
+		"To_Valor":"False",
+		"To_Mystic":"False",
+		"To_Instinct":"False",
+		"From_Valor":"False",
+		"From_Mystic":"False",
+		"From_Instinct":"False"
+	},
+	"pokestops":{
+		"Lured":"False"
+	},
+	"pokemon":{
+		"max_dist":"inf",
+		"min_iv":"0",
+"Venusaur":{"min_iv":"0"},
+"Charizard":{"min_iv":"0"},
+"Blastoise":{"min_iv":"0"},
+"Vaporeon":{"min_iv":"0"},
+"Snorlax":{"min_iv":"0"},
+"Articuno":{"min_iv":"0"},
+"Zapdos":{"min_iv":"0"},
+"Moltres":{"min_iv":"0"},
+"Dratini":{"min_iv":"0"},
+"Dragonair":{"min_iv":"0"},
+"Dragonite":{"min_iv":"0"},
+"Mewtwo":{"min_iv":"0"},
+"Mew":{"min_iv":"0"}
+	}
+}
